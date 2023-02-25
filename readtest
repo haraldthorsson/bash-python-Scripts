@@ -1,0 +1,5 @@
+#!/bin/bash
+
+read -p "input: " INPUT
+
+echo "Your input is: ${INPUT}"
